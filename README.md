@@ -1,2 +1,0 @@
-# reddy.ACTIVITY-1
-REDDY
