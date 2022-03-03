@@ -1,5 +1,4 @@
 import java.util.*;
-
 class S{
 public static void main(String[] args){
 Scanner sc=new Scanner(System.in);
